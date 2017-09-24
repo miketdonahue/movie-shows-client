@@ -1,0 +1,49 @@
+h1 {
+  text-align: center;
+}
+
+img {
+  width: 275px;
+  height: 275px;
+  vertical-align: middle;
+}
+
+.show {
+  float: left;
+  margin: 10px 15px;
+}
+
+.show-info {
+  text-align: center;
+  padding: 15px;
+}
+
+.show-title {
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.show-year {
+  padding: 5px;
+}
+
+.show-thumbnail {
+  padding: 4px;
+  background-color: #ffffff;
+  border: 1px solid #888888;
+  border-radius: 4px;
+  max-width: 100%;
+}
+
+input {
+  display: block;
+  width: 300px;
+  padding: 6px;
+  margin: 0 auto;
+  line-height: 1.25;
+  background-color: #fff;
+  background-image: none;
+  background-clip: padding-box;
+  border: 1px solid #888888;
+  border-radius: .25rem;
+}
